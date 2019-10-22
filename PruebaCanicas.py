@@ -1,7 +1,19 @@
 import unittest
 import ProblemaCanicas
 class Prueba_Canicas(unittest.TestCase):
-    def test_Cani_real(self):
+    def test_Cani_real1(self):
+        mat=[[0,0,0,0,0,0],
+             [0,0,0,0,0,0],
+             [0,1,0,0,0,1],
+             [0,0,0,1,0,0],
+             [0,0,1,0,0,0],
+             [1,0,0,0,1,0]]
+        vec=[[6],[2],[1],[5],[3],[10]]
+        toques=2
+        res=[[0],[0],[1],[5],[9],[12]]
+        resultado=ProblemaCanicas.canicas_real(mat,vec,toques)
+        self.assertEqual(res,resultado)
+    def test_Cani_real2(self):
         mat=[[0,0,0,0,0,0,0,0],
             [1/2,0,0,0,0,0,0,0],
             [1/2,0,0,0,0,0,0,0],
