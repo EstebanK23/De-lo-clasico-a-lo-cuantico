@@ -20,7 +20,9 @@ El proyecto cuenta tambien con un codigo de pruebas donde se hará analisis de c
 - Por ultimo correr el codigo presionando la tecla f5.
 
 3. Dar click en PruebaCanicas para observar que el codigo funcione plenamente
+
 ![Capture1](https://user-images.githubusercontent.com/54051399/67318224-d24ac080-f4d0-11e9-8895-a7b1d00583a0.PNG)
 
 Este es un ejemplo de las pruebas
+
 ![Capture](https://user-images.githubusercontent.com/54051399/67318122-adeee400-f4d0-11e9-9953-e21c27b51d63.PNG)
