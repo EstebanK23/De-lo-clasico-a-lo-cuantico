@@ -3,7 +3,7 @@ Este proyecto tiene dos operaciones para el problema de canicas presentado en cl
 - El problema de canicas solo con numeros reales
 - El problema de canicas con numeros imaginarios
 # COMO FUNCIONA
-Este codigo cuenta con una funcion para cada operacion, las cuales cada una recibe dos matrices y una cantidad de toques.
+Este codigo cuenta con una funcion para cada operacion, las cuales cada una recibe dos matrices y una cantidad de toques o clicks para solucionar el problema de las canicas.
 
 El proyecto cuenta tambien con un codigo de pruebas donde se hará analisis de cada una de las funciones y dira si cada una de estás funciona correctamente.
 
